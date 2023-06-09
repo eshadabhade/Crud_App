@@ -1,0 +1,76 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Sebastian",
+      "lastName": "Eschweiler",
+      "email": "sebastian@javatpoint.com",
+      "password": "Sebastian123",
+      "confirmPassword": "Sebastian123",
+      "bio": "Hello I am Sebastian.",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "firstName": "Steve",
+      "lastName": "Palmer",
+      "email": "steve@javatpoint.com",
+      "password": "Steve123",
+      "confirmPassword": "Steve123",
+      "bio": "Hello I am Steve.",
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "firstName": "Ann",
+      "lastName": "James",
+      "email": "ann@javatpoint.com",
+      "password": "Ann123",
+      "confirmPassword": "Ann123",
+      "bio": "Hello I am Ann.",
+      "state": "Gujarat",
+      "city": "Jaipur",
+      "gender": "Female"
+    },
+    {
+      "firstName": "Rose",
+      "lastName": "Selvem",
+      "email": "rose@gmail.com",
+      "password": "rose123",
+      "confirmPassword": "rose123",
+      "bio": "Hello, I am Rose!",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "firstName": "Neha",
+      "lastName": "Dabhade",
+      "email": "neha@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "bio": "",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "gender": "Female",
+      "id": 6
+    },
+    {
+      "firstName": "Joy",
+      "lastName": "Mark",
+      "email": "joy@gmail.com",
+      "password": "joy123",
+      "confirmPassword": "joy123",
+      "bio": "Hello",
+      "state": "Gujarat",
+      "city": "Jodhpur",
+      "gender": "Male",
+      "id": 7
+    }
+  ]
+}
